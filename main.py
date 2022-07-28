@@ -44,7 +44,8 @@ def functions():
           console.print("[bold green][ + ] Installation completed\n[ √ ] tool saved in $HOME")
 
      elif menu == "7":
-          sys.exit()
           print("bye!")
+          sys.exit()
+          
 
 functions()

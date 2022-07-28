@@ -1,8 +1,6 @@
 from rich.console import Console
 import os, sys
 
-os.system("clear")
-
 console = Console()
 
 console.print("""[bold red]

@@ -5,3 +5,6 @@ os.system('pkg update -y && pkg upgrade -y')
 
 print('[ + ] install console\n')
 os.system('pip3 install console')
+
+print('[ + ] install rich\n')
+os.system('pip3 install rich')

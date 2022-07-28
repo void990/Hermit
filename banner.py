@@ -14,7 +14,7 @@ console.print("""[bold red]
 ██   ██ ███████ ██   ██ ██      ██ ██    ██    
                                                
 [bold black]VERSION : [ 1.4.9 ]
-[bold black]GITHUB : 
+[bold black]GITHUB : https://github.com/void990/Hermit
 
 [bold white]=============================================
 

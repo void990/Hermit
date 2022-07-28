@@ -1,5 +1,6 @@
 import os, sys
 from rich.console import Console
+import update
 import banner
 
 console = Console()

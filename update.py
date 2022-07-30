@@ -5,7 +5,7 @@ import os, sys
 console = Console()
 
 update = console.input(
-"[bold white]update tool? (y/n) "
+"[bold white]Update Tool? |y/n|: "
 )
 
 if update == "y":

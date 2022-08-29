@@ -3,6 +3,8 @@
 
 [1] Обновляем пакеты и качаем python:
 
+pkg update -y && pkg upgrade -y
+
 pkg install git -y
 
 pkg install python
